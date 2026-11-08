@@ -1,0 +1,16 @@
+{
+  "temperature_unit": 1,
+  "auto_start": true,
+  "tft_open": true,
+  "tft_speed": 2,
+  "tft_animation": true,
+  "tft_turn": 0,
+  "tft_ctemp": true,
+  "tft_cfreq": true,
+  "tft_ctrpm": true,
+  "tft_cpower": true,
+  "tft_gtemp": true,
+  "tft_gfreq": true,
+  "tft_gtrpm": true,
+  "tft_gpower": true
+}
